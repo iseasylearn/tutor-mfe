@@ -60,7 +60,7 @@ CORE_MFE_APPS: dict[str, MFE_ATTRS_TYPE] = {
         "port": 1996,
     },
     "learning": {
-        "repository": "https://github.com/openedx/frontend-app-learning.git",
+        "repository": "https://github.com/iseasylearn/frontend-app-learning.git",
         "port": 2000,
     },
     "ora-grading": {
